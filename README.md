@@ -37,6 +37,6 @@ If you wish to change the keybinds, you can do so where I set the keys in the li
 
 The source provided below was used to help me load the notes (load function on line 67) and keys (if map_rect on line 189) into the game. And also help organize/format my code (as their code was generally better organized than mine was), such as placing the clock.tick in the game loop at the very bottom, and placing the mixer inside the load function (line 70).
 
-Sources: https://github.com/tested69420/rythm-gam-code/tree/main/tutorial
+Source: https://github.com/tested69420/rythm-gam-code/tree/main/tutorial
 
 Music sources: https://www.youtube.com/watch?v=VIop055eJhU (stage 1), https://www.youtube.com/watch?v=ukRgBnTSYdo (stage 2)
