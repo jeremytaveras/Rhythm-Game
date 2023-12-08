@@ -1,7 +1,6 @@
 # Rhythm-Game
 A simple two stage rhythm game.
 
-
 Requires pygame. To download pygame, paste one of the following into the terminal:
 
 python3 -m pip install -U pygame --user
@@ -40,3 +39,5 @@ The source provided below was used to help me load the notes (load function on l
 Source: https://github.com/tested69420/rythm-gam-code/tree/main/tutorial
 
 Music sources: https://www.youtube.com/watch?v=VIop055eJhU (stage 1), https://www.youtube.com/watch?v=ukRgBnTSYdo (stage 2)
+
+Note: Unfortunately my counter is broken goes up by 2 when a note is hit, when I have the counter set to increment by 1, and I don't have time to fix it :/ but I still decided to leave it in to fix it in the future.
