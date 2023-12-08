@@ -13,6 +13,7 @@ pip3 install pygame
 pip install pygame
 
 
+
 The 2nd one is what worked for me but it may be different for you. Once pygame is installed, run the code and the game window will open.
 
 Default keybinds: Left Shift, Z, /, Right Shift.
