@@ -31,7 +31,7 @@ If you wish to change the keybinds, you can do so where I set the keys in the li
 
 -Objects: button class on line 32, extra subclass on line 42 but no inheritance.
 
--GUI-Elements: 
+-GUI-Elements: defined the button on line 42, created button on line 125.
 
 -'Our team completed this project with code that we wrote ourselves. Any time we used code from a source outside the resources for this class, it was only a few lines and we cited that source in the code.' - Jeremy Taveras
 
